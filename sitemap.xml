@@ -1,0 +1,22 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://mangobloom.ru/</loc>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://mangobloom.ru/kompanija</loc>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mangobloom.ru/uslugi</loc>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mangobloom.ru/process</loc>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mangobloom.ru/kontakty</loc>
+        <priority>0.5</priority>
+    </url>
+</urlset>
